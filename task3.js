@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
 
 const mailOptions = {
   from: 'pavandemo19@gmail.com', 
-  to: 'pavanadabala8@gmail.com',
+  to: 'pravin.consensus@gmail.com',
   subject: '21A25A6101',
   text: 'This is 21a25a6101(A.pavan)  sending email'
 };
